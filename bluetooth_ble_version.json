@@ -1,4 +1,7 @@
 {
-  "version" : "1.0.0",
-  "isForce" : "true"
+  "version" : "1.0",
+  "isForce" : "false",
+  "title" : "Bump new version.",
+  "subtitle" : "test",
+  "describe" : "test",
 }
