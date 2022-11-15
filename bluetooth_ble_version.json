@@ -1,8 +1,8 @@
 {
-  "version" : "1.0",
+  "version" : "1.1",
   "isForce" : "false",
-  "title" : "Bump new version.",
-  "subtitle" : "test",
-  "describe" : "test",
+  "title" : "New version.",
+  "subtitle" : "",
+  "describe" : "",
   "updateUrl" : "https://play.google.com/store/apps/"
 }
