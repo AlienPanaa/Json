@@ -3,6 +3,6 @@
   "isForce" : "false",
   "title" : "New version.",
   "subtitle" : "2022/12/06",
-  "describe" : "1. 修正低版本權限請求\n2. 廣播斷線尚未清除 UI 資料",
+  "describe" : "1. 修正低版本權限請求\n",
   "updateUrl" : "https://play.google.com/store/apps/details?id=com.alien.bluetooth_low_energy"
 }
